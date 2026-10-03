@@ -8,7 +8,7 @@
 ## 📌 Integrantes del equipo
 - Gonzalez Carapia Brandon Uziel  
 - Jimenez Sanchez Taylin  
-- Hernandez Yerai  
+- Castillo Ruiz Adair Yerai
 
 ---
 
@@ -40,8 +40,8 @@ Los enlaces a los *issues* creados en el fork para documentar las propuestas del
 
 ## 📂 Evidencias
 El repositorio contiene la estructura organizada en carpetas:  
-- `articulos`  
-- `exposicion`  
-- `propuestas`  
-- `proyecto asignado`  
-- `proyecto propio`  
+- [Articulos](articulos/resumenes.pdf)
+- [Exposicion](exposicion/resumenes.pdf)
+- [Propuestas](propuestas/resumenes.pdf)
+- [Proyecto asignado](proyecto_asignado/resumenes.pdf)
+- [Proyecto propio](proyecto_propio/resumenes.pdf)
