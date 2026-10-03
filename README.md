@@ -34,7 +34,7 @@ Los enlaces a los *issues* creados para documentar las propuestas del equipo son
 
 - [Issue 1 ](propuestas/Propuestas_Carapia.pdf)  
 - [Issue 2 ](propuestas/Propuestas_Tay.pdf)  
-- [Issue 3 ](propuestas)  
+- [Issue 3 ](propuestas/Propuestas_Yerai)  
 
 ---
 
