@@ -40,8 +40,8 @@ Los enlaces a los *issues* creados en el fork para documentar las propuestas del
 
 ## 📂 Evidencias
 El repositorio contiene la estructura organizada en carpetas:  
-- [Articulos](articulos/resumenes.pdf)
-- [Exposicion](exposicion/resumenes.pdf)
-- [Propuestas](propuestas/resumenes.pdf)
-- [Proyecto asignado](proyecto_asignado/resumenes.pdf)
-- [Proyecto propio](proyecto_propio/resumenes.pdf)
+- [Articulos](articulos/resumenes_articulos.pdf)
+- [Exposicion](/exposicion)
+- [Propuestas](/propuestas)
+- [Proyecto asignado](/proyecto_asignado)
+- [Proyecto propio](/proyecto_propio)
