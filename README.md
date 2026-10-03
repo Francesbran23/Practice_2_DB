@@ -7,7 +7,7 @@
 
 ## 📌 Integrantes del equipo
 - Gonzalez Carapia Brandon Uziel  
-- Jimenez Sanchez Taylin  
+- Jiménez Sánchez Taylin  
 - Castillo Ruiz Adair Yerai
 
 ---
