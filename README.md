@@ -30,11 +30,11 @@ Se realizaron las siguientes acciones:
 ---
 
 ## 📝Issues de las propuestas
-Los enlaces a los *issues* creados en el fork para documentar las propuestas del equipo son los siguientes:  
+Los enlaces a los *issues* creados para documentar las propuestas del equipo son los siguientes:  
 
-- [Issue 1 - Propuesta inicial](https://github.com/Francesbran23/PublicMunicipalWorks_DWH/issues/1)  
-- [Issue 2 - Ajustes de estructura](https://github.com/Francesbran23/PublicMunicipalWorks_DWH/issues/2)  
-- [Issue 3 - Artículo de referencia](https://github.com/Francesbran23/PublicMunicipalWorks_DWH/issues/3)  
+- [Issue 1 ](/propuestas/propuestas_Carapia(1).pdf)  
+- [Issue 2 ](/propuestas/propuestas_Tay(1).pdf)  
+- [Issue 3 ](/propuestas)  
 
 ---
 
