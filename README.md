@@ -32,8 +32,8 @@ Se realizaron las siguientes acciones:
 ## 📝Issues de las propuestas
 Los enlaces a los *issues* creados para documentar las propuestas del equipo son los siguientes:  
 
-- [Issue 1 ](/propuestas/propuestas_Carapia(1).pdf)  
-- [Issue 2 ](/propuestas/propuestas_Tay(1).pdf)  
+- [Issue 1 ](/propuestas/Propuestas_Carapia(1).pdf)  
+- [Issue 2 ](/propuestas/Propuestas_Tay(1).pdf)  
 - [Issue 3 ](/propuestas)  
 
 ---
